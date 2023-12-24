@@ -1,2 +1,2 @@
-# A website to invite your lover for a date ðŸ¥
+# A website to invite your lover for a date.
 https://vixkram.github.io/outwme/
